@@ -23,3 +23,7 @@
 Nota : 4.8
 
 Observacion: El trabajo se realizo con algunas dudas pero se  aclaro con el profesor, se desarrollo la estructura del codigo, donde pueden haber algunos errores en el momento de dar el reporte, pero fue muy claro el desarrollo del codigo , se hizo minusiozamente, el porcentaje de ia fue muy bajo para el codigo , siendo de un 8 a un 10 por ciento , y se utilizo para la razon de poder aclarar algunas dudas en especificp .
+
+##NOMBRES
+Jeronimo Hoyos 
+Camilo valencia
