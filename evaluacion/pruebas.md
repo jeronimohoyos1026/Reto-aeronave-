@@ -1,8 +1,14 @@
-##PARTE 1
-![alt text](<Parte 1.png.jpeg>)
-
-##PARTE 2 
-![alt text](<Parte 2.png.jpeg>)
+Parte 1.png.jpeg
+Parte 2.png.jpeg
+Parte 3 linea 27.png.jpeg
+Parte 3 linea 48.png.jpeg
+Parte 3 linea 54.png.jpeg
+Parte 3 linea 101.png.jpeg
+Parte 3.png.jpeg
+Prueba 4.png.jpeg
+Parte 5.png.jpeg
+Parte 5 #2.png.jpeg
+Parte 5 #3.png.jpeg
 
 ##PARTE 3
 ![Aqui se guarda el valor en la variable local](<Parte 3.png.jpeg>)
